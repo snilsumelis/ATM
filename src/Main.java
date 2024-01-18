@@ -23,7 +23,6 @@ public class Main {
                             "4-Çıkış Yap");
                     System.out.print("Lütfen yapmak istediğiniz işlemi seçiniz : ");
                     select = input.nextInt();
-
                     switch (select){
                         case (1):
                             System.out.print("Para miktarı : ");
